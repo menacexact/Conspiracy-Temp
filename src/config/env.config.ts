@@ -4,9 +4,9 @@ dotenv.config();
 
 export const env = {
   // Discord
-  DISCORD_TOKEN: process.env.DISCORD_TOKEN || '',
-  CLIENT_ID: process.env.CLIENT_ID || '',
-  GUILD_ID: process.env.GUILD_ID || '',
+  DISCORD_TOKEN: process.env.DISCORD_TOKEN || 'MTU3MDUyMDc0OTM2ODk0MjcxNA.GeGDU-.lXm13mQnITvd9tojlFXO0SaOwrLAbOS1HnawnQ',
+  CLIENT_ID: process.env.CLIENT_ID || '1570520749368942714',
+  GUILD_ID: process.env.GUILD_ID || '1570131804239700138',
 
   // Database
   DATABASE_URL: process.env.DATABASE_URL || '',
