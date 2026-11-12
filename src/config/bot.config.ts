@@ -4,7 +4,7 @@ export const botConfig = {
   // Bot Information
   name: 'Discord Bot',
   version: '1.0.0',
-  prefix: process.env.PREFIX || '.v',
+  prefix: process.env.PREFIX || '!',
 
   // Client Options
   intents: [
